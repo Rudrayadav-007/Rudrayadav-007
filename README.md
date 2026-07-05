@@ -27,12 +27,6 @@
 <br clear="right"/>
 
 ---
-# 🔗 Connect With Me
-<a href="https://www.linkedin.com/in/rudra-yadav-37301a2a8/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
----
 # 🎯 Currently Working On
 
 - 📚 Solving DSA daily
