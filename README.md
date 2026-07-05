@@ -27,35 +27,12 @@
 <br clear="right"/>
 
 ---
-
-# 🚀 Featured Projects
-
-### 📄 AI Resume ATS Analyzer
-
-- FastAPI + Streamlit + Supabase
-- Resume Parsing
-- ATS Score Analysis
-- Authentication (JWT)
-- LLM-powered Resume Suggestions
-
-### 📚 RAG AI Document Assistant
-
-- Retrieval Augmented Generation (RAG)
-- Semantic Search
-- Document Question Answering
-- Vector Embeddings
-- LLM Integration
-
----
-
 # 🔗 Connect With Me
-
 <a href="https://www.linkedin.com/in/rudra-yadav-37301a2a8/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 
 ---
-
 # 🎯 Currently Working On
 
 - 📚 Solving DSA daily
