@@ -169,14 +169,6 @@ AI-powered document assistant using Retrieval-Augmented Generation.
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rudrayadav-007&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### ⭐ Thanks for visiting my profile!
 
 If you're interested in software engineering, DSA, full-stack development, backend systems, or AI applications, feel free to connect.
